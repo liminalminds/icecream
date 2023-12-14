@@ -23,3 +23,12 @@
 | Blueberry 2    | #C279CF | <img width=35 height=35 alt='color14' src='images/colors/14_blueberry_c279cf.png'    > |
 | Vanilla 2      | #E4E4E4 | <img width=35 height=35 alt='color15' src='images/colors/15_vanilla_e4e4e4.png'      > |
 
+
+## Screenshots
+
+### [Neovim](https://github.com/liminalminds/icecream.nvim)
+
+<img src="/images/screenshots/neovim.png" width="100%">
+
+
+:)
